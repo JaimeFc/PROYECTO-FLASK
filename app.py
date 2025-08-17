@@ -10,5 +10,5 @@ def index():
 def ususarios(nombre):
     return f"<h2 style='color:blue;'>¡Hola, {nombre} gracias por visitar mi aplicación!"
 
-if __name__ == '__main__':
-    app.run(debug=True)
+#if __name__ == '__main__':
+#    app.run(debug=True)
