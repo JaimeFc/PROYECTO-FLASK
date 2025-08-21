@@ -17,7 +17,7 @@ def about():
 
 @app.route('/contacto')
 def contacto():
-    return "Contactate con nosotros"
+    return "Contactate con nosotros en"
 
 #if __name__ == '__main__':
 #    app.run(debug=True)
