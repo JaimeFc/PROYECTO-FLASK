@@ -15,9 +15,7 @@ def ususarios(nombre):
 def about():
     return render_template('about.html', title='Acerca de')
 
-@app.route('/contacto')
-def contacto():
-    return "Contactate con nosotros en"
+
 
 #if __name__ == '__main__':
 #    app.run(debug=True)
