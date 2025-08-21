@@ -2,7 +2,7 @@
 
 * { box-sizing: border-box; }
 body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color: #222; }
-.site-header { background: #e6e8ec; border-bottom: 1px solid #020813; }
+.site-header { background: #01050f; border-bottom: 1px solid #020813; }
 .nav { display: flex; gap: 1rem; padding: 1rem; max-width: 960px; margin: 0 auto; }
 .nav a { text-decoration: none; color: var(--accent); font-weight: 600; }
 .nav a:hover { text-decoration: underline; }
